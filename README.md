@@ -1,0 +1,2 @@
+# iskyblog
+template blog
