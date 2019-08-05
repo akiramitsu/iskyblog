@@ -122,11 +122,11 @@ function auto_safeconvert() {
     /*TAMBAH DISINI LINK POSTINGANNYA*/
     
     var daftarPostingan = [
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
+      "https://blogtestisky.blogspot.com/2019/07/rekomendasi-access-point-outdoor_5.html",
+      "https://blogtestisky.blogspot.com/2019/07/13-pertanyaan-yang-sering-muncul-saat_2.html",
+      "https://blogtestisky.blogspot.com/2019/06/macam-macam-tes-psikotes-seleksi-calon_30.html",
+      "https://blogtestisky.blogspot.com/2019/06/pembahasan-singkat-pemrograman-web_26.html",
+      "https://blogtestisky.blogspot.com/2019/06/cara-menentukan-target_17.html",
     ];
     /* Jika ingin menambah postingan, copas saja */
 
