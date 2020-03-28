@@ -102,9 +102,7 @@ return response || fetch(event.request);
 );
 });
 
-<script type="text/javascript">
     if('serviceWorker' in navigator) {
   navigator.serviceWorker
            .then(function() { console.log("Service Worker Registered"); });
 }
-  </script>
