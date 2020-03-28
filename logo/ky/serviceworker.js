@@ -103,7 +103,7 @@ self.addEventListener('fetch', function(event) {
 
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker
-        .register('https://cdn.statically.io/gh/akiramitsu/iskyblog/98b0dc3f/logo/ky/serviceworker.js')
+        .register('https://ghcdn.rawgit.org/akiramitsu/iskyblog/master/logo/ky/serviceworker.js')
         .then(function() {
             console.log("Service Worker Registered");
         });
